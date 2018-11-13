@@ -1,0 +1,9 @@
+
+.slider{}
+.slider .slider-arrow{}
+.slider .slider-arrow.left{}
+.slider .slider-arrow.right{}
+
+.slider .slider-content-container{}
+.slider .slider-content-container .slider-item{}
+.slider .slider-content-container .slider-item.active{}
